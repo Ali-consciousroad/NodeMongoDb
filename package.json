@@ -1,0 +1,24 @@
+{
+  "name": "node-mongo",
+  "version": "1.0.0",
+  "description": "Node MongoDB Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ali-consciousroad/NodeMongoDb.git"
+  },
+  "author": "Jogesh Muppala, Ali Dindar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ali-consciousroad/NodeMongoDb/issues"
+  },
+  "homepage": "https://github.com/Ali-consciousroad/NodeMongoDb#readme",
+  "dependencies": {
+    "assert": "^1.5.0",
+    "mongodb": "^3.7.3"
+  }
+}
